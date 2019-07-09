@@ -1,7 +1,7 @@
 # hackduino
  Arduino UNO Shield
  
- Check Youtube Video: 
+ Check Youtube Video: https://youtu.be/ND71jwhZl4Q 
  
 That's my new arduino shield. I called it #Hackduino.
 
